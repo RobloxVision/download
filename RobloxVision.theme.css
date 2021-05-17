@@ -1,0 +1,33 @@
+/**
+* @name RobloxVision
+* @version 1.0
+* @description Roblox!
+* @author RanukfRBLX
+* @source https://github.com/RobloxVision/download
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--themeColor1: #36D1DC;
+--themeColor2: #5B86E5;
+--customFont: 'Open Sans', sans-serif;
+--homeImage: url('https://media0.giphy.com/media/1QcqLUCuQca1edQ0rK/source.gif');
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://strefainwestorow.pl/sites/default/files/imagepicker/5376/Roblox.jpg');
+--backgroundBlur: 2px;
+--backgroundOpacity: 0.6;
+
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #729869;
+}
